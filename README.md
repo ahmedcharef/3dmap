@@ -11,4 +11,5 @@ RGBDSLAM
 #Usage
 
 > python exportAxes.py
+
 > python map.py 
