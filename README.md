@@ -7,7 +7,6 @@ I use data from RGB-D cameras, e.g., the Microsoft Kinect to exports it to (X,Y,
 You can use this project to create highly accurate 3D point clouds or OctoMaps.
 
 
-RGBDSLAM
 #Usage
 
 > python exportAxes.py
