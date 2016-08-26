@@ -9,3 +9,6 @@ You can use this project to create highly accurate 3D point clouds or OctoMaps.
 
 RGBDSLAM
 #Usage
+
+> python exportAxes.py
+> python map.py 
